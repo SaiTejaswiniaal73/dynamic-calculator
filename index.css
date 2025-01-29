@@ -23,6 +23,7 @@ input{
     width: 280px;
     border: 2px solid black;
     padding: 25px;
+    background-color: palevioletred;
 }
 button:hover{
     background-color: aqua;
