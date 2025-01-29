@@ -1,0 +1,32 @@
+button{
+    padding: 15px;
+    height: 40px;
+    width: 40px;
+    border-color: transparent;
+    border-radius: 25%;
+    background-color: rgba(169, 169, 169, 0.648);
+    text-align: center;
+}
+.md div{
+    padding: 3px;
+}
+input{
+    border-color: transparent;
+    background-color: antiquewhite;
+    height: 40px;
+    width: 97%;
+    padding: 10px;
+    border-radius: 10%;
+    /* border: 2px solig purple; */
+}
+.md {
+    width: 280px;
+    border: 2px solid black;
+    padding: 25px;
+}
+button:hover{
+    background-color: aqua;
+}
+button:active{
+    background-color: blanchedalmond;
+}
